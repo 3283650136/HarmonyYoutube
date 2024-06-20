@@ -1,0 +1,40 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "material": {
+          "certpath": "C:\\Users\\32836\\.ohos\\config\\openharmony\\auto_ohos_default_HarmoneyOpenEye_com.winwang.harmonyOpenEye.cer",
+          "storePassword": "0000001B0AFB4349CA69C166B7D8372B1CA8A4858451256B449E79B10A707996BCACC5AA566AA45F2AD638",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001B8EE16AFF181EA21F7AEEA21CF67353DDFD425FC4BD8A2E44EC039EC33907D6D6620F9DC05F53A5",
+          "profile": "C:\\Users\\32836\\.ohos\\config\\openharmony\\auto_ohos_default_HarmoneyOpenEye_com.winwang.harmonyOpenEye.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\32836\\.ohos\\config\\openharmony\\auto_ohos_default_HarmoneyOpenEye_com.winwang.harmonyOpenEye.p12"
+        }
+      }
+    ],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
