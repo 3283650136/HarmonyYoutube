@@ -52,10 +52,3 @@
 </div>
 
 <br/>
-
-<div style="display: flex; flex-direction: row">
-<img src="https://s2.loli.net/2023/11/29/f62m8uPFqsYOdtp.png" width="25%">
-<img src="https://s2.loli.net/2023/11/29/52vDjhPWNxpUce7.png" width="25%">
-<img src="https://s2.loli.net/2023/11/29/BgCDhOxomzAikKr.png" width="25%">
-</div>
-<br/>
