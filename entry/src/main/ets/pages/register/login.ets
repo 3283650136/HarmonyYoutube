@@ -3,6 +3,8 @@ import Queue from '@ohos.util.Queue';
 import promptAction from '@ohos.promptAction';
 import {RoutePath} from "../../route/RoutePath"
 import UserViewModel from '../../viewmodel/UserViewModel';
+import { StorageUtils } from '../../utils/StorageUtils';
+import { StorageKeys } from '../../constants/StorageKeys';
 @Entry
 @Component
 struct Index {
@@ -62,6 +64,7 @@ struct Index {
                 UserViewModel.toLogin({"username":this.username,"password":this.password},result => {
                   if(+result === 200){
                     router.pushUrl({url:RoutePath.MainPage})
+                    StorageUtils.put(StorageKeys.USER_LOGIN, true)
                   }
                   else{
                     AlertDialog.show({

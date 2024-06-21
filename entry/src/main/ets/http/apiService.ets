@@ -13,9 +13,8 @@ import axiosClient from './AxiosRequest'
 import httpClient from './request'
 import { ReplyItemModel } from '../model/ReplayModel'
 
-let baseUrl = "https://baobab.kaiyanapp.com/"
 let wanAndroidUrl = "https://www.wanandroid.com/"
-let myBaseUrl = "http://10.21.193.104:8090"
+let myBaseUrl = "http://10.21.176.43:8090"
 
 
 /**
