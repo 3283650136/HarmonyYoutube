@@ -19,5 +19,43 @@
 
 获取后端代码和数据库请联系：3283650136@qq.com
 
+## 效果预览
 
+<div style="display: flex; flex-direction: row">
+<img src="https://note.youdao.com/s/KogOHTFU" width="25%">
+<img src="https://note.youdao.com/s/KTD2T1KH" width="25%">
+<img src="https://note.youdao.com/s/8tflnIJW" width="25%">
+</div>
+
+<br/>
+
+<div style="display: flex; flex-direction: row">
+<img src="https://note.youdao.com/s/ZlKA83Rn" width="25%">
+<img src="https://note.youdao.com/s/JBuGbc0l" width="25%">
+<img src="https://note.youdao.com/s/XWAGYwwW" width="25%">
+</div>
+
+<br/>
+
+<div style="display: flex; flex-direction: row">
+<img src="https://note.youdao.com/s/1bFcpqcR" width="25%">
+<img src="https://note.youdao.com/s/1CJKkR9J" width="25%">
+<img src="https://note.youdao.com/s/XaWClM6j" width="25%">
+</div>
+
+<br/>
+
+<div style="display: flex; flex-direction: row">
+<img src="https://note.youdao.com/s/XTflDr7E" width="25%">
+<img src="https://note.youdao.com/s/bzh0hEzs" width="25%">
+<img src="https://note.youdao.com/s/6UU5pU4v" width="25%">
+</div>
+
+<br/>
+
+<div style="display: flex; flex-direction: row">
+<img src="https://s2.loli.net/2023/11/29/f62m8uPFqsYOdtp.png" width="25%">
+<img src="https://s2.loli.net/2023/11/29/52vDjhPWNxpUce7.png" width="25%">
+<img src="https://s2.loli.net/2023/11/29/BgCDhOxomzAikKr.png" width="25%">
+</div>
 <br/>
